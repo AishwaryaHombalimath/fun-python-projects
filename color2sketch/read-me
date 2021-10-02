@@ -1,0 +1,2 @@
+This project converts a given color image to a sketch which is black and white.
+We are making use of opencv python library to carry out our program
